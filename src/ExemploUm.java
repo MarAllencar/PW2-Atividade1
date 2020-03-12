@@ -11,7 +11,6 @@ public class ExemploUm
 			return true;
 		}
 	}
-
 	public static void main(String[] args) 
 	{
 		boolean diaValido = ehDiaSemana("Domingo");
